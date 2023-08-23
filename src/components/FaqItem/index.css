@@ -1,0 +1,29 @@
+li {
+  border: 1px solid #d7dae6;
+  padding: 10px;
+  border-radius: 10px;
+}
+.questionText {
+  font-size: 20px;
+  color: #52606d;
+}
+.li_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  width: 20px;
+  height: 20px;
+}
+.answerText {
+  font-size: 15px;
+  color: #9aa5b1;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+}
+hr {
+  border: 1px solid #e4e7eb;
+}
